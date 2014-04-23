@@ -1,4 +1,3 @@
-
                                   MAY FIRST
          A game inspired by  http://en.wikipedia.org/wiki/Juno_First
                  Written 2013 by hmw, http://harald.ist.org/
@@ -92,6 +91,7 @@ Under Debian 7.1 I had to issue:
 
 Under Fedora 20 I used:
   $ su -c 'yum install  \
+    gcc                 \
     SDL_image-devel     \
     SDL_ttf-devel       \
     SDL_mixer-devel     \
